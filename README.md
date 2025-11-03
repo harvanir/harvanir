@@ -102,7 +102,7 @@ I believe impactful engineering comes from the balance of **business clarity, te
 
 ### 🤝 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/harvanirsyadi)
+- 💼 [LinkedIn](https://www.linkedin.com/in/harvan-irsyadi)
 - 🧑‍💻 [GitHub](https://github.com/harvanir)
 - ✉️ harvanjns@gmail.com  
 
