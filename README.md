@@ -6,7 +6,7 @@ I'm **Harvan Irsyadi**, a **Technology & Engineering Leader** passionate about b
 
 ### 🧭 About Me
 
-With 16+ years of experience across **FinTech, SaaS, IoT, and IT Consulting**, I’ve led engineering teams and built platforms that power millions of users — from e-money and QRIS payments to large-scale IoT supply chain systems.
+With 17+ years of experience across **FinTech, SaaS, IoT, and IT Consulting**, I’ve led engineering teams and built platforms that power millions of users — from e-money and QRIS payments to large-scale IoT supply chain systems.
 
 I believe impactful engineering comes from the balance of **business clarity, technical excellence, and people growth**.
 
